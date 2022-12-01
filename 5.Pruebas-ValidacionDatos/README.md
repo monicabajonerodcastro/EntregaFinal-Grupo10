@@ -1,9 +1,9 @@
-# 4. Pruebas de validación de datos
+# 5. Pruebas de validación de datos
 En la carpeta de cada herramienta, se especifican los requisitos e instrucciones de ejecución de las pruebas.
 
 ### Herramientas
-- Kraken (GHOST 5.22.8)
-- Playwright (GHOST 5.19.0)
+- Kraken 
+- Playwright
 
 ### Escenarios
 | No. | Funcionality | Scenario | Event generation tool | Data generation technique | Data generation tool | Responsible |
