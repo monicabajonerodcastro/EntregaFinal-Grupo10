@@ -1,0 +1,7 @@
+{
+  "headless": false,
+  "url": "http://localhost:2371/ghost/#/signin",
+  "username": "Ingrese su usuario aquí",
+  "password": "Ingrese su contraseña aquí",
+  "screenshotPath": "./screenshots"
+}

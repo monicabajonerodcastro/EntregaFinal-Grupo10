@@ -1,0 +1,7 @@
+{
+  "USERNAME": "Ingrese su usuario aquí",
+  "PASSWORD": "Ingrese su contraseña aquí",
+  "LOGIN_URL": "http://localhost:3001/ghost/#/signin",
+  "WRONG_PASSWORD": "WRONGPASSWORD",
+  "GHOST_VERSION": "3.42"
+}
