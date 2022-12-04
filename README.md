@@ -15,5 +15,5 @@
 ### Items entrega:
 1. Artefactos de código: Se encuentran en las carpetas 1 al 5 del repositorio.
 2. Listado de incidencias: Se encuentran en el siguiente [repositorio](https://github.com/monicabajonerodcastro/Ghost-Issues/issues)
-3. Estrategua de pruebas: Se encuentra en el siguiente link](https://github.com/monicabajonerodcastro/EntregaFinal-Grupo10/files/10147756/Estrategia-pruebas.Presupuesto.Final.pdf)
+3. Estrategua de pruebas: Se encuentra en el siguiente [link](https://github.com/monicabajonerodcastro/EntregaFinal-Grupo10/files/10147756/Estrategia-pruebas.Presupuesto.Final.pdf)
 4. Video: Se encuentra en el siguiente [link](https://youtu.be/ByWnsOxzGsE)
